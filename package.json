@@ -14,5 +14,9 @@
     "ejs-locals": "~1.0.0",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
+  },
+  "engines": {
+    "node": "8.4.x",
+    "npm": "5.3.x"
   }
 }
